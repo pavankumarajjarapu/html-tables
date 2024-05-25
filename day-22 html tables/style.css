@@ -1,0 +1,6 @@
+table,th,td{
+    border: 1px groove green;
+    border-radius: 10px;
+    font-size: 2rem;
+    border-collapse: separate;
+}
