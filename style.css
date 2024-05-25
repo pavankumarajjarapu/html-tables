@@ -1,0 +1,22 @@
+table{
+    border: 3px dashed green;
+    border-radius: 1px;
+    font-size: 2rem;
+    border-collapse: separate;
+}
+th{
+    border: 2px groove red;
+    background-color: aquamarine;
+    color: chocolate;
+    text-align: left;
+    
+ 
+}
+td{
+    border: 2px dotted rgb(18, 212, 60);
+    background-color: rgb(247, 143, 184);
+    color: blueviolet;
+    font-size: 15px;
+
+   
+}
